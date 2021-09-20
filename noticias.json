@@ -1,0 +1,39 @@
+{
+  "origin": [
+    "#name.capitalize# ,#job#, fue visto con #acompañante.capitalize# en #lugar# #accion#."
+  ],
+  "job": [
+    "futbolista",
+    "docente de la FADU",
+    "fundador de la organización Al Qaeda",
+    "chofer de la linea 110",
+    "presidente de la nación"
+  ],
+  "name": [
+    "Diego Maradona",
+    "Bob Esponja",
+    "Bin Laden",
+    "Maluma",
+    "Gabriel Rud"
+  ],
+  "acompañante": [
+    "un unicornio",
+    "Lionel Messi",
+    "Jesus",
+    "Barack Obama",
+    "Lilita Carrió"
+  ],
+  "lugar": [
+    "una verdulería del barrio de Mataderos",
+    "Japón",
+    "La Bombonera",
+    "la FADU",
+    "un taxi"
+  ],
+  "accion": [
+   "consumiendo estupefacientes.",
+    "montando un puma.",
+    "asesinando al fiscal Nisman",
+    "jugando un fulbito"
+  ]
+}
