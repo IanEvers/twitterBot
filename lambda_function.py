@@ -96,7 +96,7 @@ def paste_in_background(texto, imagen):
 print("arranco")
 
 texto, imagen = random_noticia()
-paste_in_background(texto, imagen) 
+paste_in_background(texto, imagen)
 
 iaasas = cv2.imread("imagen.jpg")
 
