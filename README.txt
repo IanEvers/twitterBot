@@ -1,1 +1,1 @@
-VALENTIN OLIVERO EL ÚNICO INTEGRANTE QUE TRABAJA ACÁ
+Pequeño bot que genera noticias falsas.
